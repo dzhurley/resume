@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzhurley/resume.git"
+  },
+  "author": "dzhurley",
+  "homepage": "http://shiftfoc.us/works",
+  "dependencies": {
+    "markdown-resume": "^0.1.0"
+  },
+  "scripts": {
+    "build": "md2resume resume.md && md2resume --pdf resume.md"
+  }
+}
