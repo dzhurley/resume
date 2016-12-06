@@ -8,9 +8,10 @@
   "author": "dzhurley",
   "homepage": "http://shiftfoc.us/works",
   "dependencies": {
-    "markdown-resume": "^0.1.0"
+    "html-pdf": "^2.1.0",
+    "markdown-to-html": "0.0.13"
   },
   "scripts": {
-    "build": "md2resume resume.md && md2resume --pdf resume.md"
+    "build": "markdown resume.md -s style.css > resume.html && html-pdf resume.html resume.pdf"
   }
 }
