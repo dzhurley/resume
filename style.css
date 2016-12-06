@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Inconsolata";
+    font-style: normal;
+    font-weight: normal;
+    src: url("/font/Inconsolata.woff") format("woff");
+}
+
+body {
+    font-family: "Inconsolata";
+    font-size: 1rem;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+a {
+    color: inherit;
+
+    &:active, &:visited {
+        color: inherit;
+    }
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+button:focus {
+    outline: none;
+}

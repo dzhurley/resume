@@ -11,7 +11,14 @@
     "html-pdf": "^2.1.0",
     "markdown-to-html": "0.0.13"
   },
+  "watch": {
+    "build": "resume.md"
+  },
   "scripts": {
-    "build": "markdown resume.md -s style.css > index.html && html-pdf index.html resume.pdf"
+    "build": "markdown resume.md -s style/style.css > index.html && html-pdf index.html resume.pdf",
+    "watch": "npm-watch"
+  },
+  "devDependencies": {
+    "npm-watch": "^0.1.6"
   }
 }

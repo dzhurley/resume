@@ -1,8 +1,8 @@
-# Derek Hurley
+## Derek Hurley
 ## Software Developer
 
-> dzhurley@gmail.com
-> https://github.com/dzhurley
+dzhurley@gmail.com
+https://github.com/dzhurley
 
 ---
 
@@ -13,14 +13,14 @@
     * JavaScript: React, three.js, jQuery, jQuery UI, Mocha, Chai, Backbone
     * CSS: Sass, PostCSS
     * Python: werkzeug, SQLAlchemy, Genshi
-* **Process**: Agile methodologies including Scrum and Kanban
+* **Process**: Agile development (Scrum, Kanban)
 * **Tools**: Git, Vim, webpack, Grunt
 
 ---
 
 ### Experience
 
-**Idealist**: *Software Developer*  __2012-present__
+**Idealist** *Software Developer*  __2012-present__
 
 * Maintained and improved legacy Python-based job board through defect fixes to often business critical code.
 * Worked with QA to update the staging and production websites, often involving database migrations and time-sensitive features.
@@ -34,30 +34,30 @@
     * Rewrote existing pages to be more mobile friendly according to new designs.
     * Documented successes and challenges for broadcast with entire developer team.
 
-**Portland State University**: *Senior Capstone Team Lead*  __2011-2012__
+**Portland State University** *Senior Capstone Team Lead*  __2011-2012__
 
 * Built a web prototype to visualize a graph of relationships between Twitter mentions and retweets.
 * Managed a team of five other students through regular meetings and ticket tracking.
 * Implemented core pieces of user interface for navigating and displaying graph.
 * Analyzed performance and memory risks during development.
-* Provided conduit for frequent communication between teammates, professor, and capstone client.
+* Facilitated frequent communication between teammates, professor, and capstone client.
 
-**Google Summer of Code Project**: *Buildbot User Objects*  __2011__
+**Google Summer of Code Project** *Buildbot User Objects*  __2011__
 
 * Added User Object tables to Buildbot's database via SQLAlchemy.
 * Implemented a command-line tool to add and modify user attributes.
 * Added support for User Object creation on changes from different VCS (Git, SVN, etc.).
 * Translated User Object information into email addresses for mail notifications.
 
-**Housing and Residence Life, Portland State University**: *Resident Assistant* __2008-2012__
+**Residence Life, Portland State University** *Resident Assistant* __2008-2012__
 
 * Enforced housing policies in residence halls.
 * Executed social and educational events involving campus resources.
-* For two years of employment, supervised a staff of 5 to 6 resident assistants.
+* For two years of employment, supervised a staff of up to six resident assistants.
 * Mediated interpersonal conflicts between residents and fellow staff.
 
 ---
 
 ### Education
 
-**Bachelors of Science in Computer Science**: *Portland State University* __2007-2012__
+**Bachelors of Science in Computer Science** *Portland State University* __2007-2012__
