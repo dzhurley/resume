@@ -12,6 +12,6 @@
     "markdown-to-html": "0.0.13"
   },
   "scripts": {
-    "build": "markdown resume.md -s style.css > resume.html && html-pdf resume.html resume.pdf"
+    "build": "markdown resume.md -s style.css > index.html && html-pdf index.html resume.pdf"
   }
 }
