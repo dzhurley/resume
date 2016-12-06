@@ -2,7 +2,19 @@
 ## Software Developer
 
 > dzhurley@gmail.com
-> github.com/dzhurley
+> https://github.com/dzhurley
+
+---
+
+### Skills
+
+* **Languages**: JavaScript, CSS, HTML, Python
+* **Libraries/Frameworks**: 
+    * JavaScript: React, three.js, jQuery, jQuery UI, Mocha, Chai, Backbone
+    * CSS: Sass, PostCSS
+    * Python: werkzeug, SQLAlchemy, Genshi
+* **Process**: Agile methodologies including Scrum and Kanban
+* **Tools**: Git, Vim, webpack, Grunt
 
 ---
 
@@ -10,19 +22,25 @@
 
 **Idealist**: *Software Developer*  __2012-present__
 
-* Maintain and improve legacy Python-based job board through defect fixes to often business critical code.
-* Update the staging and production websites with new business logic, database migrations, and features/enhancements.
+* Maintained and improved legacy Python-based job board through defect fixes to often business critical code.
+* Worked with QA to update the staging and production websites, often involving database migrations and time-sensitive features.
 * Helped develop a prototype Single Page Application for users to connect with each other and share their intentions for action.
-* Screened and interviewed potential developers for Idealist, helping shape and improve the interview process along the way.
 * Organized and facilitated team process as Scrum Master for a strictly revenue stream focused team of developers.
-* Lead a team of three other developers and one designer focused on user communications and engagement by managing team process while reviewing code and guiding technical decisions with product in mind. This lead to exploration of analytics, A/B testing, rewriting existing pages to be more mobile friendly, and documenting to share all of the team's learnings with the organization.
+* Screened and interviewed potential developers for Idealist, helping shape and improve the interview process along the way.
+* Lead a team of three other developers and one designer focused on user communications and engagement:
+    * Improved team process and communication with recurring retrospectives and open feedback loops.
+    * Reviewed code and guided technical decisions based on scheduling, team expertise, and managing technical debt.
+    * Experimented with new features through A/B testing, using analytics to guide next steps.
+    * Rewrote existing pages to be more mobile friendly according to new designs.
+    * Documented successes and challenges for broadcast with entire developer team.
 
 **Portland State University**: *Senior Capstone Team Lead*  __2011-2012__
 
-* Built a web prototype using d3.js to visualize a graph of relationships from Twitter data.
-* Managed a team of 5 other students through meetings and ticket tracking.
-* Implemented core pieces of Web UI for navigating and displaying graph.
+* Built a web prototype to visualize a graph of relationships between Twitter mentions and retweets.
+* Managed a team of five other students through regular meetings and ticket tracking.
+* Implemented core pieces of user interface for navigating and displaying graph.
 * Analyzed performance and memory risks during development.
+* Provided conduit for frequent communication between teammates, professor, and capstone client.
 
 **Google Summer of Code Project**: *Buildbot User Objects*  __2011__
 
@@ -42,19 +60,4 @@
 
 ### Education
 
-**BS in Computer Science**: *Portland State University* __2007-2012__
-
----
-
-### Skills
-
-* **Languages** Javascript, CSS, HTML, Python, Bash
-* **Libraries** ReactJS, BackboneJS, jQuery, Sass, PostCSS
-* **Databases** PostgreSQL, Redis
-* **Tools/Utilities** Git, Vim, webpack
-
----
-
-### References
-
-Available upon request
+**Bachelors of Science in Computer Science**: *Portland State University* __2007-2012__
