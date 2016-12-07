@@ -2,7 +2,7 @@
 ## Software Developer
 
 dzhurley@gmail.com
-https://github.com/dzhurley
+github.com/dzhurley
 
 ---
 
