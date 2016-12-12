@@ -8,19 +8,19 @@ github.com/dzhurley
 
 ### Skills
 
-* **Languages**: JavaScript, CSS, HTML, Python
-* **Libraries/Frameworks**: 
-    * JavaScript: React, three.js, jQuery, jQuery UI, Mocha, Chai, Backbone
-    * CSS: Sass, PostCSS
-    * Python: werkzeug, SQLAlchemy, Genshi
-* **Process**: Agile development (Scrum, Kanban)
-* **Tools**: Git, Vim, webpack, Grunt
+* **Languages:** JavaScript, CSS, HTML, Python
+* **Libraries/Frameworks:** 
+    * CSS - Sass, PostCSS
+    * JavaScript - React, three.js, jQuery, jQuery UI, Mocha, Chai, Backbone
+    * Python - werkzeug, SQLAlchemy, Genshi
+* **Process:** Agile development (Scrum, Kanban)
+* **Tools:** Git, Vim, webpack, Grunt
 
 ---
 
 ### Experience
 
-**Idealist** *Software Developer*  __2012-present__
+**Idealist:** *Software Developer*  __2012-present__
 
 * Maintained and improved legacy Python-based job board through defect fixes to often business critical code.
 * Worked with QA to update the staging and production websites, often involving database migrations and time-sensitive features.
@@ -34,7 +34,7 @@ github.com/dzhurley
     * Rewrote existing pages to be more mobile friendly according to new designs.
     * Documented successes and challenges for broadcast with entire developer team.
 
-**Portland State University** *Senior Capstone Team Lead*  __2011-2012__
+**Portland State University:** *Capstone Lead*  __2011-2012__
 
 * Built a web prototype to visualize a graph of relationships between Twitter mentions and retweets.
 * Managed a team of five other students through regular meetings and ticket tracking.
@@ -42,14 +42,14 @@ github.com/dzhurley
 * Analyzed performance and memory risks during development.
 * Facilitated frequent communication between teammates, professor, and capstone client.
 
-**Google Summer of Code Project** *Buildbot User Objects*  __2011__
+**Google Summer of Code:** *Buildbot User Objects*  __2011__
 
 * Added User Object tables to Buildbot's database via SQLAlchemy.
 * Implemented a command-line tool to add and modify user attributes.
 * Added support for User Object creation on changes from different VCS (Git, SVN, etc.).
 * Translated User Object information into email addresses for mail notifications.
 
-**Residence Life, Portland State University** *Resident Assistant* __2008-2012__
+**Portland State University:** *Resident Assistant* __2008-2012__
 
 * Enforced housing policies in residence halls.
 * Executed social and educational events involving campus resources.

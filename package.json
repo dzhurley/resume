@@ -12,7 +12,7 @@
     "markdown-to-html": "0.0.13"
   },
   "watch": {
-    "build": "resume.md"
+    "build": ["resume.md", "style/style.css"]
   },
   "scripts": {
     "build": ". ./build.sh",
