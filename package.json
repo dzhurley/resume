@@ -15,7 +15,7 @@
     "build": "resume.md"
   },
   "scripts": {
-    "build": "markdown resume.md -s style/style.css > index.html && html-pdf index.html resume.pdf",
+    "build": ". ./build.sh",
     "watch": "npm-watch"
   },
   "devDependencies": {
