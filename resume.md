@@ -66,4 +66,4 @@ github.com/dzhurley
 
 ### Education
 
-**Bachelors of Science in Computer Science** *Portland State University* __2007-2012__
+**Portland State University:** *BS, Computer Science* __2007-2012__
