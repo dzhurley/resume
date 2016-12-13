@@ -10,6 +10,10 @@ body {
     position: relative;
 
     max-width: calc(768px - 4rem);
+
+    height: 100vh;
+    -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
 }
 
 body > p > * {
@@ -72,6 +76,10 @@ a {
     text-align: center;
     text-decoration: none;
     max-width: 10rem;
+}
+a:hover {
+    background-color: rgba(215, 215, 215, 1);
+    color: rgba(39, 39, 39, 1);
 }
 
 @media (min-width: 480px) {
