@@ -13,7 +13,7 @@ github.com/dzhurley
     * CSS - Sass, PostCSS
     * JavaScript - React, three.js, jQuery, jQuery UI, Mocha, Chai, Backbone
     * Python - werkzeug, SQLAlchemy, Genshi, Flatland
-* **Process:** Agile development (Scrum, Kanban)
+* **Process:** Agile development (Scrum, Kanban), JIRA, Trello
 * **Tools:** Git, Vim, webpack, Grunt
 
 ---
