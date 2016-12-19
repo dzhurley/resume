@@ -8,13 +8,14 @@ github.com/dzhurley
 
 ### Skills
 
-* **Languages:** JavaScript, CSS, HTML, Python
-* **Libraries/Frameworks:** 
+* **Languages:** JavaScript, CSS, HTML, Python, SQL
+* **Libraries / Frameworks:**
     * CSS - Sass, PostCSS
-    * JavaScript - React, three.js, jQuery, jQuery UI, Mocha, Chai, Backbone
-    * Python - werkzeug, SQLAlchemy, Genshi, Flatland
-* **Process:** Agile development (Scrum, Kanban), JIRA, Trello
+    * JavaScript - React, three.js, d3.js, jQuery, Mocha, Chai, Backbone
+    * Python - Werkzeug, SQLAlchemy, Genshi, Flatland
 * **Tools:** Git, Vim, webpack, Grunt
+* **Databases:** PostgreSQL, SQLite, Redis
+* **Process:** Agile development (Scrum, Kanban), JIRA, Trello
 
 ---
 
