@@ -1,5 +1,5 @@
 ## Derek Hurley
-## Software Developer
+## Software Engineer
 
 dzhurley@gmail.com
 github.com/dzhurley
@@ -21,21 +21,21 @@ github.com/dzhurley
 
 ### Experience
 
-**Idealist:** *Software Developer*  __2012-present__
+**Idealist:** *Software Engineer*  __2012-present__
 
 * Maintained and improved legacy Python codebase through defect fixes to business critical code.
 * Worked with QA to update the staging and production websites, often involving database migrations and time-sensitive features.
 * Helped develop a prototype Backboned-based Single Page Application for users to connect with each other and share their intentions for action.
-* Organized and facilitated team process as Scrum Master for a strictly revenue stream focused team of developers.
-* Screened and interviewed potential developers for Idealist, in the process helping improve the interview process as a whole.
-* Programmed in a variety of developer configurations, including pair and mob programming.
-* Led a team of three developers and one designer focused on communications and engagement:
+* Organized and facilitated team process as Scrum Master for a strictly revenue stream focused team of engineers.
+* Screened and interviewed potential engineers for Idealist, in the process helping improve the interview process as a whole.
+* Programmed in a variety of engineering configurations, including pair and mob programming.
+* Led a team of three engineers and one designer focused on communications and engagement:
     * Responded quickly to multiple projects at various stages of development by working directly with Product Owners on estimates and timelines.
     * Improved team process and communication with retrospectives and daily stand ups.
     * Reviewed code and guided technical decisions based on scheduling, team expertise, and technical debt, whether it was from scratch or incorporating third party plug ins.
     * Experimented with new features through A/B testing and used analytics to guide next steps in development.
     * Rewrote high traffic existing pages such as the homepage to be more mobile friendly according to new and updated designs.
-    * Documented successes and challenges the team encountered for broadcast with entire developer team.
+    * Documented successes and challenges the team encountered for broadcast with entire engineering team.
 
 **Portland State University:** *Capstone Lead*  __2011-2012__
 
