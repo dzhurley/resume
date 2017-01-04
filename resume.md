@@ -13,9 +13,9 @@ github.com/dzhurley
     * CSS - Sass, PostCSS
     * JavaScript - React, three.js, d3.js, jQuery, Mocha, Chai, Backbone
     * Python - Werkzeug, SQLAlchemy, Genshi, Flatland
-* **Tools:** Git, Vim, webpack, Grunt
+* **Tools:** Git, Vim, webpack, Grunt, Google Analytics
 * **Databases:** PostgreSQL, SQLite, Redis
-* **Process:** Agile development (Scrum, Kanban), JIRA, Trello
+* **Process:** Agile development (Scrum, Kanban), JIRA, Trello, Optimizely
 
 ---
 
@@ -23,23 +23,23 @@ github.com/dzhurley
 
 **Idealist:** *Software Engineer*  __2012-present__
 
-* Maintained and improved legacy Python codebase through defect fixes to business critical code.
-* Worked with QA to update the staging and production websites, often involving database migrations and time-sensitive features.
-* Helped develop a prototype Backboned-based Single Page Application for users to connect with each other and share their intentions for action.
+* Maintained and improved legacy codebase comprised of Werkzeug, SQLAlchemy, Genshi, and other Python libraries.
+* Worked with QA to update the staging and production websites, often involving SQL migrations and time-sensitive features.
+* Developed a Backbone and Sass based application for users to connect with each other and share their intentions for action.
 * Organized and facilitated team process as Scrum Master for a strictly revenue stream focused team of engineers.
 * Screened and interviewed potential engineers for Idealist, in the process helping improve the interview process as a whole.
 * Programmed in a variety of engineering configurations, including pair and mob programming.
 * Led a team of three engineers and one designer focused on communications and engagement:
-    * Responded quickly to multiple projects at various stages of development by working directly with Product Owners on estimates and timelines.
+    * Reviewed Git pull requests and guided technical decisions based on scheduling, maintainability, and technical debt.
+    * Responded quickly to multiple projects at various stages of development by working with Product Owners on estimates and timelines.
     * Improved team process and communication with retrospectives and daily stand ups.
-    * Reviewed code and guided technical decisions based on scheduling, team expertise, and technical debt, whether it was from scratch or incorporating third party plug ins.
-    * Experimented with new features through A/B testing and used analytics to guide next steps in development.
-    * Rewrote high traffic existing pages such as the homepage to be more mobile friendly according to new and updated designs.
+    * Experimented on and analyzed new features through Optimizely A/B testing and Google Analytics to inform next steps.
+    * Rewrote high traffic existing pages such as the homepage in React and PostCSS to meet new mobile-first designs.
     * Documented successes and challenges the team encountered for broadcast with entire engineering team.
 
 **Portland State University:** *Capstone Lead*  __2011-2012__
 
-* Built a web prototype to visualize a graph of relationships between Twitter mentions and retweets.
+* Built a d3.js application to visualize a graph of relationships between Twitter mentions and retweets.
 * Managed a team of five other students through regular meetings and ticket tracking.
 * Implemented core pieces of user interface for navigating and displaying graph.
 * Analyzed performance and memory risks during development.
