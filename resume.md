@@ -22,7 +22,7 @@ codepen.io/dzhurley
 
 ### Experience
 
-**Idealist:** *Software Engineer*  __2012-present__
+**Idealist:** *Software Engineer*  __2012-2017__
 
 * Maintained and improved legacy codebase comprised of Werkzeug, SQLAlchemy, Genshi, and other Python libraries.
 * Worked with QA to update the staging and production websites, often involving SQL migrations and time-sensitive features.
