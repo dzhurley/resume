@@ -9,18 +9,30 @@ codepen.io/dzhurley
 
 ### Skills
 
-* **Languages:** JavaScript, CSS, HTML, Python, SQL
+* **Languages:** JavaScript, Python, SQL, CSS, HTML
 * **Libraries / Frameworks:**
-    * CSS - Sass, PostCSS
-    * JavaScript - React, three.js, d3.js, jQuery, Mocha, Chai, Backbone
-    * Python - Werkzeug, SQLAlchemy, Genshi, Flatland
-* **Tools:** Git, Vim, webpack, Grunt, Google Analytics
-* **Databases:** PostgreSQL, SQLite, Redis
-* **Process:** Agile development (Scrum, Kanban), JIRA, Trello, Optimizely
+    * JavaScript - React, Redux, three.js, d3.js, jQuery, Jest
+    * CSS - Sass, PostCSS, Bootstrap
+    * Python - Django, Django Rest Framework, Celery, Genshi, Ansible
+* **Tools:** AWS, CircleCI, Git, Vim, webpack, Google Analytics, Docker
+* **Databases:** PostgreSQL, Redis
+* **Process:** Agile development (Scrum, Kanban), JIRA, Trello
 
 ---
 
 ### Experience
+
+**PledgeUp:** *Software Engineer*  __2017-present__
+
+* Transitioned key pages to newer React components and introduced Redux for data management.
+* Introduced more thorough event based Google Analytics tracking to inform design decisions.
+* Experimented with moving local development setups to Docker.
+* Responded quickly and effectively to networking/operational issues with the production site.
+* Implemented granular Javascript/Python error reports through Sentry for more context on defects.
+* Managed process and backlog of github issues through labels and priority.
+* Worked with stakeholders to create SQL reports or sift through logs to answer specific user/product questions.
+* Created first server side rendered React pages using AWS Lambda and API Gateway, including build/release tooling.
+* Coordinated with bank and stakeholders to ensure accurate processing of monetary transactions.
 
 **Idealist:** *Software Engineer*  __2012-2017__
 
@@ -48,9 +60,7 @@ codepen.io/dzhurley
 
 **Google Summer of Code:** *Buildbot User Objects*  __2011__
 
-* Added User Object tables to Buildbot's database via SQLAlchemy.
-* Implemented a command-line tool to add and modify user attributes.
-* Added support for User creation on changes from different VCS (Git, SVN, etc.).
+* Added User Objects to Buildbot to track changes and add/modify attributes.
 * Translated User Object information into email addresses for mail notifications.
 
 **Portland State University:** *Resident Assistant* __2008-2012__
