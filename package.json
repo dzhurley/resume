@@ -8,11 +8,14 @@
   "author": "dzhurley",
   "homepage": "http://shiftfoc.us/works",
   "dependencies": {
-    "html-pdf": "^2.1.0",
+    "html-pdf": "2.1.0",
     "markdown-to-html": "0.0.13"
   },
   "watch": {
-    "build": ["resume.md", "style/style.css"]
+    "build": [
+      "resume.md",
+      "style/style.css"
+    ]
   },
   "scripts": {
     "build": ". ./build.sh",
