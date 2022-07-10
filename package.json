@@ -1,27 +1,13 @@
 {
   "name": "resume",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dzhurley/resume.git"
   },
   "author": "dzhurley",
-  "homepage": "http://shiftfoc.us/works",
-  "dependencies": {
-    "html-pdf": "2.1.0",
-    "markdown-to-html": "0.0.13"
-  },
-  "watch": {
-    "build": [
-      "resume.md",
-      "style/style.css"
-    ]
-  },
+  "homepage": "https://shiftfoc.us/",
   "scripts": {
-    "build": ". ./build.sh",
-    "watch": "npm-watch"
-  },
-  "devDependencies": {
-    "npm-watch": "^0.1.6"
+    "build": "docker run -v ${PWD}:/resume there4/markdown-resume md2resume pdf --template=roboto resume.md ."
   }
 }
