@@ -20,7 +20,7 @@ dzhurley@gmail.com - github.com/dzhurley - shiftfoc.us
 
 ### Experience
 
-**Aclima:** *Front End Engineering Lead*  __2021-present__
+**Aclima:** *Front End Engineering Lead*  __2021-present__  (Portland, OR, USA)
 
 * Continued existing UI Engineer roles and responsibilities.
 * Owned and accountable for front end experiences across external and internal facing interfaces.
@@ -31,7 +31,7 @@ dzhurley@gmail.com - github.com/dzhurley - shiftfoc.us
 * Managed defect tracking workflow and prioritization strategy.
 * Restructured team and individual work streams to resource highest value work as needed.
 
-**Aclima:** *UI Engineer*  __2019-2021__
+**Aclima:** *UI Engineer*  __2019-2021__  (Portland, OR, USA)
 
 * Built data visualization and analysis tool for large map-based datasets using Next.js and Mapbox.
 * Implemented and owned everything from Kubernetes deployment to CSS layout.
@@ -43,7 +43,7 @@ dzhurley@gmail.com - github.com/dzhurley - shiftfoc.us
 * Prototyped experimental interfaces to display and analyze our data with cross functional teams.
 * Implemented analytics and alerting in all released projects for observability and to inform future work.
 
-**PledgeUp:** *Staff Engineer*  __2018-2019__
+**PledgeUp:** *Staff Engineer*  __2018-2019__  (Portland, OR, USA)
 
 * Continued existing Software Engineer roles and responsibilities.
 * Took on complete technical accountability and on call response for the website as sole engineer.
@@ -51,7 +51,7 @@ dzhurley@gmail.com - github.com/dzhurley - shiftfoc.us
 * Enabled organizations to customize styles/branding on profile pages to match own external sites.
 * Progressively scaled infrastructure and improved website performance as data volume grew.
 
-**PledgeUp:** *Software Engineer*  __2017-2018__
+**PledgeUp:** *Software Engineer*  __2017-2018__  (Portland, OR, USA)
 
 * Worked with stakeholders to create SQL reports and run ad hoc queries to inform product questions.
 * Responded quickly and effectively to networking/operational issues with production site.
@@ -60,7 +60,7 @@ dzhurley@gmail.com - github.com/dzhurley - shiftfoc.us
 * Built pipeline to server side render React pages in Django application using AWS Lambda and API Gateway.
 * Coordinated with multiple banks to ensure accurate processing of monetary transactions.
 
-**Idealist:** *Software Engineer*  __2012-2017__
+**Idealist:** *Software Engineer*  __2012-2017__  (Portland, OR, USA)
 
 * Maintained and improved legacy Python codebase.
 * Worked with QA to update the staging and production websites.
